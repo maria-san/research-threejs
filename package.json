@@ -1,0 +1,16 @@
+{
+  "name": "research-threejs",
+  "version": "1.0.0",
+  "description": "ThreeJs[research]",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Maria Santos",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "path": "^0.12.7",
+    "three": "^0.90.0"
+  }
+}
